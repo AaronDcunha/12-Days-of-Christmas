@@ -3,7 +3,7 @@
 #Print the lyrics to the song The 12 Days of Christmas
 
 #My idea is to use lists and accordingly choose the lyrics based on the step
-day = ["First","Second","Third","Fourth","Fifth","Sixth","Seventh","Eighth","Ninth","Tenth","Eleventh","Twelfth"] #Idk y i felt my spellings were wrong.
+day = ["First","Second","Third","Fourth","Fifth","Sixth","Seventh","Eighth","Ninth","Tenth","Eleventh","Twelfth"]
 
 # I never noticed the lyrics of the song.. All I knew was the tune.. and now I see a pattern in the song.
 
